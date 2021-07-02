@@ -1,0 +1,652 @@
+{
+    "payload": {
+        "message": "OK",
+        "data": {
+            "clientProfileData": {
+                "email": "angela.canessa.m@gmail.com",
+                "firstName": "Angela",
+                "lastName": "Cannesa",
+                "document": "171202604",
+                "documentType": "rutCHL",
+                "phone": "+56976205202",
+                "corporateName": null,
+                "tradeName": null,
+                "corporateDocument": null,
+                "stateInscription": null,
+                "corporatePhone": null,
+                "isCorporate": false,
+                "profileCompleteOnLoading": true,
+                "profileErrorOnLoading": false,
+                "customerClass": null
+            },
+            "shippingData": {
+                "address": {
+                    "addressType": "residential",
+                    "receiverName": "Angela Cannesa",
+                    "addressId": "ty5f8p7dbwh",
+                    "isDisposable": false,
+                    "postalCode": null,
+                    "city": "Santiago",
+                    "state": "REGIÓN METROPOLITANA",
+                    "country": "CHL",
+                    "street": "Los Albañiles",
+                    "number": "1543",
+                    "neighborhood": "Ñuñoa",
+                    "complement": "",
+                    "reference": null,
+                    "geoCoordinates": [
+                        -70.614457,
+                        -33.469126
+                    ]
+                },
+                "logisticsInfo": [
+                    {
+                        "itemIndex": 0,
+                        "selectedSla": null,
+                        "selectedDeliveryChannel": null,
+                        "addressId": "ty5f8p7dbwh",
+                        "slas": [],
+                        "shipsTo": [
+                            "CHL"
+                        ],
+                        "itemId": "5863",
+                        "deliveryChannels": [
+                            {
+                                "id": "delivery"
+                            }
+                        ]
+                    }
+                ],
+                "selectedAddresses": [
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "ty5f8p7dbwh",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Los Albañiles",
+                        "number": "1543",
+                        "neighborhood": "Ñuñoa",
+                        "complement": "",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.614457,
+                            -33.469126
+                        ]
+                    }
+                ],
+                "availableAddresses": [
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "ty5f8p7dbwh",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Los Albañiles",
+                        "number": "1543",
+                        "neighborhood": "Ñuñoa",
+                        "complement": "",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.614457,
+                            -33.469126
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "APP-1455108343",
+                        "isDisposable": false,
+                        "postalCode": "",
+                        "city": "Valparaiso",
+                        "state": "VALPARAÍSO",
+                        "country": "CHL",
+                        "street": "Blasia",
+                        "number": "170",
+                        "neighborhood": "Viña del Mar",
+                        "complement": "",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -71.5306257,
+                            -32.9797663
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "juan perez",
+                        "addressId": "APP-1627616",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Darío Urzúa",
+                        "number": "51",
+                        "neighborhood": "Providencia",
+                        "complement": "",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.61186570000001,
+                            -33.4311829
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "xxyzdg1n7o",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Santa Amalia",
+                        "number": "1763",
+                        "neighborhood": "La Florida",
+                        "complement": "",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.5649316,
+                            -33.5435414
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "528ebfcf-af5b-11eb-82ac-022f6790145d",
+                        "isDisposable": false,
+                        "postalCode": "",
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "5680",
+                        "neighborhood": "Las Condes",
+                        "complement": "23",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.56907,
+                            -33.40372
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "7a5e4f77-af41-11eb-82ac-0237f023a825",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "5680",
+                        "neighborhood": "Las Condes",
+                        "complement": "23",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.568794,
+                            -33.4038
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "3475229d-a458-11eb-82ac-0a1e4c9ef399",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "5680",
+                        "neighborhood": "Las Condes",
+                        "complement": "23",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.568794,
+                            -33.4038
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "6yv2soxoq",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Isabel la Católica",
+                        "number": "4995",
+                        "neighborhood": "Las Condes",
+                        "complement": "",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.57106759999999,
+                            -33.4262231
+                        ]
+                    },
+                    {
+                        "addressType": "APP-3203785312",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "APP-3203785312",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "2645",
+                        "neighborhood": "Las Condes",
+                        "complement": "null",
+                        "reference": "null",
+                        "geoCoordinates": [
+                            -70.568794,
+                            -33.4038
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "APP-618438580",
+                        "isDisposable": false,
+                        "postalCode": "",
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "5680",
+                        "neighborhood": "Las Condes",
+                        "complement": "23",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.56907,
+                            -33.40372
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "APP-1205924796",
+                        "isDisposable": false,
+                        "postalCode": "",
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Darío Urzúa",
+                        "number": "1825",
+                        "neighborhood": "Providencia",
+                        "complement": "51",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.61186,
+                            -33.431183
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "afno2wnfjq",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "5680",
+                        "neighborhood": "Las Condes",
+                        "complement": "1",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.5738145,
+                            -33.4052305
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "APP-186356729",
+                        "isDisposable": false,
+                        "postalCode": "",
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Avenida las Condes",
+                        "number": "2146",
+                        "neighborhood": "Las Condes",
+                        "complement": "",
+                        "reference": "",
+                        "geoCoordinates": [
+                            -70.5322525,
+                            -33.3822357
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": "Angela Cannesa",
+                        "addressId": "ub22euksu1",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Emilia Téllez",
+                        "number": "4805",
+                        "neighborhood": "Ñuñoa",
+                        "complement": "43",
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.58110669999999,
+                            -33.4420052
+                        ]
+                    },
+                    {
+                        "addressType": "residential",
+                        "receiverName": null,
+                        "addressId": "ckll9w1cs000h08l02csff9ow",
+                        "isDisposable": false,
+                        "postalCode": null,
+                        "city": "Santiago",
+                        "state": "REGIÓN METROPOLITANA",
+                        "country": "CHL",
+                        "street": "Cerro El Plomo",
+                        "number": "8600",
+                        "neighborhood": "Las Condes",
+                        "complement": null,
+                        "reference": null,
+                        "geoCoordinates": [
+                            -70.5621042,
+                            -33.4008236
+                        ]
+                    }
+                ],
+                "pickupPoints": []
+            },
+            "paymentData": {
+                "updateStatus": "updated",
+                "installmentOptions": [
+                    {
+                        "paymentSystem": "16",
+                        "bin": null,
+                        "paymentName": null,
+                        "paymentGroupName": null,
+                        "value": 3035700,
+                        "installments": [
+                            {
+                                "count": 1,
+                                "hasInterestRate": false,
+                                "interestRate": 0,
+                                "value": 3035700,
+                                "total": 3035700,
+                                "sellerMerchantInstallments": [
+                                    {
+                                        "id": "UNIMARCDEV",
+                                        "count": 1,
+                                        "hasInterestRate": false,
+                                        "interestRate": 0,
+                                        "value": 3035700,
+                                        "total": 3035700
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "paymentSystem": "30",
+                        "bin": null,
+                        "paymentName": null,
+                        "paymentGroupName": null,
+                        "value": 3035700,
+                        "installments": [
+                            {
+                                "count": 1,
+                                "hasInterestRate": false,
+                                "interestRate": 0,
+                                "value": 3035700,
+                                "total": 3035700,
+                                "sellerMerchantInstallments": [
+                                    {
+                                        "id": "UNIMARCDEV",
+                                        "count": 1,
+                                        "hasInterestRate": false,
+                                        "interestRate": 0,
+                                        "value": 3035700,
+                                        "total": 3035700
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "paymentSystem": "201",
+                        "bin": null,
+                        "paymentName": null,
+                        "paymentGroupName": null,
+                        "value": 3035700,
+                        "installments": [
+                            {
+                                "count": 1,
+                                "hasInterestRate": false,
+                                "interestRate": 0,
+                                "value": 3035700,
+                                "total": 3035700,
+                                "sellerMerchantInstallments": [
+                                    {
+                                        "id": "UNIMARCDEV",
+                                        "count": 1,
+                                        "hasInterestRate": false,
+                                        "interestRate": 0,
+                                        "value": 3035700,
+                                        "total": 3035700
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "paymentSystem": "202",
+                        "bin": null,
+                        "paymentName": null,
+                        "paymentGroupName": null,
+                        "value": 3035700,
+                        "installments": [
+                            {
+                                "count": 1,
+                                "hasInterestRate": false,
+                                "interestRate": 0,
+                                "value": 3035700,
+                                "total": 3035700,
+                                "sellerMerchantInstallments": [
+                                    {
+                                        "id": "UNIMARCDEV",
+                                        "count": 1,
+                                        "hasInterestRate": false,
+                                        "interestRate": 0,
+                                        "value": 3035700,
+                                        "total": 3035700
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "paymentSystem": "204",
+                        "bin": null,
+                        "paymentName": null,
+                        "paymentGroupName": null,
+                        "value": 3035700,
+                        "installments": [
+                            {
+                                "count": 1,
+                                "hasInterestRate": false,
+                                "interestRate": 0,
+                                "value": 3035700,
+                                "total": 3035700,
+                                "sellerMerchantInstallments": [
+                                    {
+                                        "id": "UNIMARCDEV",
+                                        "count": 1,
+                                        "hasInterestRate": false,
+                                        "interestRate": 0,
+                                        "value": 3035700,
+                                        "total": 3035700
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "paymentSystems": [
+                    {
+                        "id": 201,
+                        "name": "Efectivo",
+                        "groupName": "custom201PaymentGroupPaymentGroup",
+                        "validator": {
+                            "regex": null,
+                            "mask": null,
+                            "cardCodeRegex": null,
+                            "cardCodeMask": null,
+                            "weights": null,
+                            "useCvv": false,
+                            "useExpirationDate": false,
+                            "useCardHolderName": false,
+                            "useBillingAddress": false
+                        },
+                        "stringId": "201",
+                        "template": "custom201PaymentGroupPaymentGroup-template",
+                        "requiresDocument": false,
+                        "isCustom": true,
+                        "description": "",
+                        "requiresAuthentication": false,
+                        "dueDate": "2021-07-08T17:08:01.7618246Z",
+                        "availablePayments": null
+                    },
+                    {
+                        "id": 30,
+                        "name": "Webpay",
+                        "groupName": "webpayPaymentGroup",
+                        "validator": {
+                            "regex": null,
+                            "mask": null,
+                            "cardCodeRegex": null,
+                            "cardCodeMask": null,
+                            "weights": null,
+                            "useCvv": false,
+                            "useExpirationDate": false,
+                            "useCardHolderName": false,
+                            "useBillingAddress": false
+                        },
+                        "stringId": "30",
+                        "template": "webpayPaymentGroup-template",
+                        "requiresDocument": false,
+                        "isCustom": false,
+                        "description": null,
+                        "requiresAuthentication": false,
+                        "dueDate": "2021-07-08T17:07:01.7618246Z",
+                        "availablePayments": null
+                    },
+                    {
+                        "id": 202,
+                        "name": "OneClick Crédito",
+                        "groupName": "custom202PaymentGroupPaymentGroup",
+                        "validator": {
+                            "regex": null,
+                            "mask": null,
+                            "cardCodeRegex": null,
+                            "cardCodeMask": null,
+                            "weights": null,
+                            "useCvv": false,
+                            "useExpirationDate": false,
+                            "useCardHolderName": false,
+                            "useBillingAddress": false
+                        },
+                        "stringId": "202",
+                        "template": "custom202PaymentGroupPaymentGroup-template",
+                        "requiresDocument": false,
+                        "isCustom": true,
+                        "description": "",
+                        "requiresAuthentication": false,
+                        "dueDate": "2021-07-02T17:08:01.7618246Z",
+                        "availablePayments": null
+                    },
+                    {
+                        "id": 204,
+                        "name": "OneClick Débito",
+                        "groupName": "custom204PaymentGroupPaymentGroup",
+                        "validator": {
+                            "regex": null,
+                            "mask": null,
+                            "cardCodeRegex": null,
+                            "cardCodeMask": null,
+                            "weights": null,
+                            "useCvv": false,
+                            "useExpirationDate": false,
+                            "useCardHolderName": false,
+                            "useBillingAddress": false
+                        },
+                        "stringId": "204",
+                        "template": "custom204PaymentGroupPaymentGroup-template",
+                        "requiresDocument": false,
+                        "isCustom": true,
+                        "description": "",
+                        "requiresAuthentication": false,
+                        "dueDate": "2021-07-02T17:08:01.7618246Z",
+                        "availablePayments": null
+                    },
+                    {
+                        "id": 16,
+                        "name": "Vale",
+                        "groupName": "giftCardPaymentGroup",
+                        "validator": {
+                            "regex": null,
+                            "mask": null,
+                            "cardCodeRegex": null,
+                            "cardCodeMask": null,
+                            "weights": null,
+                            "useCvv": false,
+                            "useExpirationDate": false,
+                            "useCardHolderName": false,
+                            "useBillingAddress": false
+                        },
+                        "stringId": "16",
+                        "template": "giftCardPaymentGroup-template",
+                        "requiresDocument": false,
+                        "isCustom": false,
+                        "description": null,
+                        "requiresAuthentication": false,
+                        "dueDate": "2021-07-08T17:07:01.7618246Z",
+                        "availablePayments": null
+                    }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+            },
+            "totalizers": [],
+            "failed": [
+                {
+                    "message": "El ítem Tapapecho Vacuno Kg Variable 1.3 Kg. no pudo ser enviado para las coordenadas seleccionadas"
+                },
+                {
+                    "message": "El ítem Whisky Chivas Regal 12 años premium, botella 750 cc Whisky 12 años, 750 cc. + Estuche. no pudo ser enviado para las coordenadas seleccionadas"
+                }
+            ],
+            "info": [],
+            "warning": [
+                {
+                    "message": "El tipo de despacho fue cambiado."
+                }
+            ],
+            "customData": null,
+            "marketingData": null
+        },
+        "error": {}
+    }
+}

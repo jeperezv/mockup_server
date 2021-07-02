@@ -1,0 +1,1187 @@
+{
+  "data": {
+    "couponsCollection": {
+      "coupons": [
+        {
+          "_id": "60c2707565036271e01cadf0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/73wUlnKPXdePhgPQkAHb9D/75b4e3815e3ebefeb7b018b45d91c180/Panaderi_a.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "2C27521FDCD20D1219DDB31F839EAAA698BD9C3C6A7A1A68964E17335365493F",
+          "entry": {
+            "fields": {
+              "description": "Todo el pan granel",
+              "descriptionType": "PAN CORRIENTE / PAN SOFT / PAN ESPECIAL**All brands",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todo el pan granel. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 kilos por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 68990 kilos  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbbda",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "DA54A481EC66BC72870E0443F4B9AA1F5448ACE45A01B248745DC2157CDC1B1C",
+          "entry": {
+            "fields": {
+              "description": "Todos los vinos botella tintos Casa Silva",
+              "descriptionType": "VINOS BOTELLA TINTO**CASA SILVA",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todos los vinos botella tintos Casa Silva. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca8ae",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "0CC0D68F843F150CBD332738351FC4BE2B0CDB380D5D9E8DA0D804E0499487FB",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Ace",
+              "descriptionType": "DETERGENTES LIQUIDOS**ACE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes liquidos Ace. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb930",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "21C63AF2F3A466957279CD01797C0218105D937FC91EC9F4EED9366E89255CF6",
+          "entry": {
+            "fields": {
+              "description": "Todas las salsas Infernos",
+              "descriptionType": "SALSAS VARIAS**INFERNO",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las salsas Infernos. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 98745 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01caada",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "640D8082F94E554E05130DC7AB39B1800EF73611530B10451E95AEFDE4A08726",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Omo",
+              "descriptionType": "DETERGENTES LIQUIDOS**OMO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes liquidos Omo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb415",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "640D8082F94E554E05130DC7AB39B1800EF73611530B10451E95AEFDE4A08726",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Omo",
+              "descriptionType": "DETERGENTES LIQUIDOS**OMO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes liquidos Omo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01caf2f",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "414FB248852702B6A08C700CEDDBA53A2CD8A27D60D85245E7E2E082C82642B7",
+          "entry": {
+            "fields": {
+              "description": "Todas las bebidas Fanta",
+              "descriptionType": "BEBIDAS GASEOSAS**FANTA",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las bebidas Fanta. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 167729 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cafd8",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "34C3CA5BF865E255FFFD25485DF16018392948F8089521AF429EDC674479502C",
+          "entry": {
+            "fields": {
+              "description": "Todos los Chocolates Sahne-Nuss",
+              "descriptionType": "CHOCOLATES**SAHNE NUSS",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los Chocolates Sahne-Nuss . Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8734 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cadb0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "49AE4099523B08317E8D6E67D4C8A18DB339A6119F4A1931F8E6702333F9B546",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Drive",
+              "descriptionType": "DETERGENTES LIQUIDOS**DRIVE",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes liquidos Drive. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca718",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "9E986E0D5698B596CFA2E094EDBE47BBE70173B693BE798CC60E643A8F1A1896",
+          "entry": {
+            "fields": {
+              "description": "Todas las galletas Milka",
+              "descriptionType": "GALLETAS**MILKA",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las galletas Milka. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca93d",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "1DFE3AE52BC671B8C0E6AC958D91D350CE56FF617F7D6AD708A2EF9B1D41BCBA",
+          "entry": {
+            "fields": {
+              "description": "Todas las mostazas Hellmann's",
+              "descriptionType": "SALSAS VARIAS**HELLMANNS",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las mostazas Hellmann's. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 44289 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cafd0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "FD56E0E610158584D424060FAC8ADFCC05628560F1A8D37F1F8442657AE08B69",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Ariel",
+              "descriptionType": "DETERGENTES LIQUIDOS**ARIEL",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes liquidos Ariel. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 9324 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cae5e",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "74CA486AD719D0FA78DDDC21418ECA2F7691436155690E000DA37322C33AB1AA",
+          "entry": {
+            "fields": {
+              "description": "Todas las hrinas Kunstmann",
+              "descriptionType": "HARINAS**KUNSTMANN",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las hrinas Kunstmann. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8762 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb967",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "0ADE181DC9DEC7D6DD2808AE494733CFEDFF53C8F568246DC2261AE6300D291A",
+          "entry": {
+            "fields": {
+              "description": "Todas las Galletas Calaf",
+              "descriptionType": "GALLETAS**CALAF",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las Galletas Calaf. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 14552 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbac8",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/73wUlnKPXdePhgPQkAHb9D/75b4e3815e3ebefeb7b018b45d91c180/Panaderi_a.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "FEE6FC9500A7882C5A597ACFF1317F07E6BB17E09DC16A7A4689FA8DDE783354",
+          "entry": {
+            "fields": {
+              "description": "Todo el pan envasado Unimarc",
+              "descriptionType": "PAN ENVASADO**UNIMARC",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todo el pan envasado Unimarc. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 86439 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb490",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "1F308567E8B176D018D61E44CB0FDE4FC10D6E7E0410FAC68D63534DADF66F12",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes liquidos Rinso",
+              "descriptionType": "DETERGENTES LIQUIDOS**RINSO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes liquidos Rinso. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 11275 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cac28",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "328CF525EFC2A9FC092F89A6C8975359C139B140DE99DB6A8DDEE44286CF28B1",
+          "entry": {
+            "fields": {
+              "description": "Todos los limpiadores Vanish",
+              "descriptionType": "LIMPIADORES**VANISH",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todos los limpiadores Vanish. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 98745 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cae7b",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "A3FEB2B57600943D05BC79ACFCB97C5767CA2782C7D327EA47C29A33892BDE77",
+          "entry": {
+            "fields": {
+              "description": "Todas las cervezas Cusqueña",
+              "descriptionType": "CERVEZAS**CUSQUEÑA",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las cervezas Cusqueña. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 packs por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 9754 packs  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb385",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "34C400C4FC0BEB9D4421B502A66AAD957FA93B28695B7EE1D0546257AC661443",
+          "entry": {
+            "fields": {
+              "description": "Todas las conservas de mariscos Unimarc",
+              "descriptionType": "CONSERVAS DE MARISCOS**UNIMARC",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las conservas de mariscos Unimarc. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8545 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbbd5",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "F10C9C614B735811EFA706656665A055F72779F390DB221100F13AE60C3E4583",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Ace",
+              "descriptionType": "DETERGENTES EN POLVO**ACE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes en polvo Ace. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbc33",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "F10C9C614B735811EFA706656665A055F72779F390DB221100F13AE60C3E4583",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Ace",
+              "descriptionType": "DETERGENTES EN POLVO**ACE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes en polvo Ace. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb7c0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "CE1795371034775B66BE76EC5D29E846BD67FC9DDCB41C89F8DFEFD51A18F9AD",
+          "entry": {
+            "fields": {
+              "description": "Papas fritas Inferno Spicy Cheddar 175 gr",
+              "descriptionType": "PAPAS FRITAS**INFERNO",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Papas fritas Inferno Spicy Cheddar 175 gr. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 78230 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca72f",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "DC2ECC634DACD3439CDD8F49BE3218B4249DA4105D75815C720C9E1C90FA5055",
+          "entry": {
+            "fields": {
+              "description": "Todas las legumbres Oregon",
+              "descriptionType": "LEGUMBRES**OREGON",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las legumbres Oregon. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8652 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca595",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "901419CAF2B471ADDB29B6EE78D1F3CD5187A24A2F870821ABD5B52EF55628DA",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Ariel",
+              "descriptionType": "DETERGENTES EN POLVO**ARIEL",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes en polvo Ariel. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb52b",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "901419CAF2B471ADDB29B6EE78D1F3CD5187A24A2F870821ABD5B52EF55628DA",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Ariel",
+              "descriptionType": "DETERGENTES EN POLVO**ARIEL",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los detergentes en polvo Ariel. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb122",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "02189CA1FAD66F8C4187B788A26573E5D3097D5DA13374B342E43AA554736825",
+          "entry": {
+            "fields": {
+              "description": "Todas las tortillas Inferno",
+              "descriptionType": "SNACKS**INFERNO",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las tortillas Inferno. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8734 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb376",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "EF70BD130EFF97D30C046E5631DE7BC76D4D9BB1CE9BD6F3F69FE2860E4D4A42",
+          "entry": {
+            "fields": {
+              "description": "Todas las conservas de mariscos Robinson Crusoe",
+              "descriptionType": "CONSERVAS DE MARISCOS**ROBINSON CRUSOE",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las conservas de mariscos Robinson Crusoe. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 159564 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca692",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/2nFVpYIhFv3jJK6u1JYtuz/e31a80153c69a71e1c70077970b0a51a/congelados.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "3237023F3A98AC24F080EDED40C22E65EFAC9CF769BC3802198E15FB98AF0F8B",
+          "entry": {
+            "fields": {
+              "description": "Todas las verduras congeladas La Crianza",
+              "descriptionType": "CHOCLO CONGELADO / VERDURAS CONGELADAS**LA CRIANZA",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las verduras congeladas La Crianza. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 28817 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb60f",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "7294F9DAF5329EDA20D9D5A76D8055A7A1F0E1A134C51D6422AB9054AD7C5082",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Omo",
+              "descriptionType": "DETERGENTES EN POLVO**OMO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes en polvo Omo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 11275 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb701",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "D47C852EFC00660FA2DF4A3E63F51D5DD0EAFD0E88FD0B491E84254578DB037C",
+          "entry": {
+            "fields": {
+              "description": "Todos los lavalozas Finish",
+              "descriptionType": "LAVALOZAS**FINISH",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los lavalozas Finish. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 6570 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cad7c",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-05-12T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/42Q6GtuoqupK9dxZCzd9lD/3175a7a1a075feb4226e9d05039e581f/Huevos_quesos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": null,
+          "entry": null
+        },
+        {
+          "_id": "60c2707565036271e01cb2f5",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "8912C59DD066FF3E4C3AF08E88A5327FB1F3B3341AD1D45D9A1F450A8DD6CC0F",
+          "entry": {
+            "fields": {
+              "description": "Todos los detergentes en polvo Rinso",
+              "descriptionType": "DETERGENTES EN POLVO**RINSO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Todos los detergentes en polvo Rinso. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbced",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "",
+          "geoIdOffer": "E4BBD4B455BDE43803A595854BB1E8F83A9154C77B765C275EE387A15DAF6CEF",
+          "entry": {
+            "fields": {
+              "description": "Quitamanchas Omo 420 gr",
+              "descriptionType": "TRATAMIENTO ROPA**OMO",
+              "mechanicId": "1",
+              "mechanic": "35",
+              "discountOrder": "34999999999999",
+              "legal": "Quitamanchas Omo 420 gr. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbac6",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "B92317AAE3B62BA7144D06851E269EEE49C32C648F8EB7334AFB357587AF3E9F",
+          "entry": {
+            "fields": {
+              "description": "Todas las bebidas Kem Xtreme",
+              "descriptionType": "BEBIDAS GASEOSAS**KEM XTREME",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las bebidas Kem Xtreme. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 11275 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb487",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "D1317E75F201548E55304054F31FA473FE3CE603193DF98EB6523F8D5F6182BB",
+          "entry": {
+            "fields": {
+              "description": "Todos los snacks Marco Polo (Excluye papas fritas)",
+              "descriptionType": "SNACKS**MARCO POLO",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todos los snacks Marco Polo (Excluye papas fritas). Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 134437 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbbc1",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "B441B6EFC22FEF252315096DBCD67C585814DA3E234BD3CF7BE48732EE01DEE5",
+          "entry": {
+            "fields": {
+              "description": "Todas las Sprite",
+              "descriptionType": "BEBIDAS GASEOSAS**SPRITE",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las Sprite. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 74207 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cae61",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "FC51928F25DAAF62246E47C503622ABCDD4FF4388F0801C63AFE737B14248369",
+          "entry": {
+            "fields": {
+              "description": "Todas las Salsas de Tomates Trattoria",
+              "descriptionType": "SALSAS DE TOMATES**TRATTORIA",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las Salsas de Tomates Trattoria. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 27249 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca643",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "57C7C275AD647C709720252F51C44D0FA644F790DFE837BCF4C844E63222F9ED",
+          "entry": {
+            "fields": {
+              "description": "Todas las bebidas Seven Up",
+              "descriptionType": "BEBIDAS GASEOSAS**SEVEN UP",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las bebidas Seven Up. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 98745 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbb84",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "9EF4863ED452E528FAF2348945493F4E39ACE3E0DE554A8B644F2BF69FFB8AA4",
+          "entry": {
+            "fields": {
+              "description": "Todas las salsas de tomates D Ampezzo",
+              "descriptionType": "SALSAS DE TOMATES**D AMPEZZO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las salsas de tomates D Ampezzo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 4 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 44549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb61d",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "068216CEEF59365E60855FADCE285E93FDEF94B7F352358F46410DF2B7FEF1A1",
+          "entry": {
+            "fields": {
+              "description": "Todas las papas fritas Lay's",
+              "descriptionType": "PAPAS FRITAS**LAYS",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las papas fritas Lay's. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 78230 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca8c1",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/6KXatWHDRLVRrTXTi2mC11/1e723f561c22ad8080738bcd9209d84d/cecinas.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "347B133B0FAAA127A512868927E962D7CA1C7E8FD22CF262C01FF256DCF47AB2",
+          "entry": {
+            "fields": {
+              "description": "Todas las cecinas granel Sopraval",
+              "descriptionType": "CECINAS GRANEL**SOPRAVAL",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las cecinas granel Sopraval. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 kilos por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 3871 kilos  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cafbd",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/6KXatWHDRLVRrTXTi2mC11/1e723f561c22ad8080738bcd9209d84d/cecinas.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "2094548ED60798503B8BC19545462856CD0CE4FDCC6CBC7D6A2F9864720B58C0",
+          "entry": {
+            "fields": {
+              "description": "Todas las cecinas granel Receta del Abuelo",
+              "descriptionType": "CECINAS GRANEL**RECETA DEL ABUELO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las cecinas granel Receta del Abuelo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 kilos por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 kilos  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbb30",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/6KXatWHDRLVRrTXTi2mC11/1e723f561c22ad8080738bcd9209d84d/cecinas.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "2094548ED60798503B8BC19545462856CD0CE4FDCC6CBC7D6A2F9864720B58C0",
+          "entry": {
+            "fields": {
+              "description": "Todas las cecinas granel Receta del Abuelo",
+              "descriptionType": "CECINAS GRANEL**RECETA DEL ABUELO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las cecinas granel Receta del Abuelo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 kilos por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 kilos  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb3eb",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "EDE6FBF9E11075D32902A1E4EF97DE103FD97C0DE08571389E9F571B93379B21",
+          "entry": {
+            "fields": {
+              "description": "Todos los chocolates Hobby",
+              "descriptionType": "CHOCOLATES**HOBBY",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todos los chocolates Hobby. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 26530 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cacbf",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/14SWe5jSHCVTp8AF33W4bf/fd0da4a3079d0780f05f3d342600647e/Lacteos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "407D6E1FF1DDC7E0B9225C1608163792DF984AA02527294B82C6A2C7DF948469",
+          "entry": {
+            "fields": {
+              "description": "Todo mantequilla pan Unimarc",
+              "descriptionType": "MANTEQUILLA PAN**UNIMARC",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todo mantequilla pan Unimarc. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 4345 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cad9b",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "02312215A15C372D47236513F6BFD75AE541196D3A64F545B2B30A34587E7DCE",
+          "entry": {
+            "fields": {
+              "description": "Todas las conservas de frutas Unimarc",
+              "descriptionType": "CONSERVAS DE FRUTAS**UNIMARC",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las conservas de frutas Unimarc. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 4535 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca781",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "FA77703E14C34D4CA0B8123916682E7AEC782ABB49E5B852A079FACDA6CE3D6F",
+          "entry": {
+            "fields": {
+              "description": "Todo el arroz Trattoria",
+              "descriptionType": "ARROZ**TRATTORIA",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todo el arroz Trattoria. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbbc5",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "77E67B9D0AA410A840D03AE6C989C261288FF127C61E688D798F838EA35162C7",
+          "entry": {
+            "fields": {
+              "description": "Todos los fideos y pastas Trattoria 400 gr",
+              "descriptionType": "FIDEOS Y PASTAS**TRATTORIA",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los fideos y pastas Trattoria 400 gr. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 4 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 103692 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb3a0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/5vHluNsBzQxNVd6StK89Oc/43fe14b334a2659fd28b4cd1983d1acc/lavado_mantecio_n.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "4B81308FCB07E5D1CDE4DCC4E61A03B8AF69FD916708C85A5B48951A35CB76BC",
+          "entry": {
+            "fields": {
+              "description": "Todo el papel higiénico Confort una hoja",
+              "descriptionType": "PAPEL HIGIENICOS**CONFORT",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todo el papel higiénico Confort una hoja. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 201299 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb6b7",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "776B86AD051FB028D3EA719543545254357F7929874C12FB9E3566DCDFE79B97",
+          "entry": {
+            "fields": {
+              "description": "Todos los cereales Cola Cao",
+              "descriptionType": "CEREALES**COLA CAO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los cereales Cola Cao. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 46653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbcdb",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/34d0Cc5hpScslu2umMOrkz/9a70812606f736fa0dc57df52bd724cc/liquidos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "F60F1E5508F1AAE1B2A28B4B6E8D93A54F3FF55E80BC6A8723DF3B0D0C54B84F",
+          "entry": {
+            "fields": {
+              "description": "Todas las cervezas Corona",
+              "descriptionType": "CERVEZAS**CORONA",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todas las cervezas Corona. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 6 packs por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 413021 packs  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca99c",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "AC74B1444DC6E8C7DC908993297BD0F99FA23373ECEA0EBE97BE33AF2E081E64",
+          "entry": {
+            "fields": {
+              "description": "Mermeladas, salsas y pastas Buka",
+              "descriptionType": "COCTEL - SNACK**BUKA",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Mermeladas, salsas y pastas Buka. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cad15",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/6KXatWHDRLVRrTXTi2mC11/1e723f561c22ad8080738bcd9209d84d/cecinas.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "CB68D871E3E37C7AEAFC0F30E3F3BF786AFED9755898128A3BE4A59D289FFBE9",
+          "entry": {
+            "fields": {
+              "description": "Todos los pate Receta del Abuelo",
+              "descriptionType": "PATE**RECETA DEL ABUELO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los pate Receta del Abuelo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 9043 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb3ae",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "FA721CF13768E5CE0944D1E6FC3FFCCB17D2048F2598243B55E865905D57A807",
+          "entry": {
+            "fields": {
+              "description": "Todas las galletas Mckay Mini",
+              "descriptionType": "GALLETAS MINI**MCKAY",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las galletas Mckay Mini. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 31293 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb995",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "C546DD1207AEEB2A69547AE64E492565C266EC909927D149A7E05888F68569E6",
+          "entry": {
+            "fields": {
+              "description": "Todas las Sopas y Cremas Maggi",
+              "descriptionType": "SOPAS Y CREMAS**MAGGI",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las Sopas y Cremas Maggi. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 4 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 104938 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca71d",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/14SWe5jSHCVTp8AF33W4bf/fd0da4a3079d0780f05f3d342600647e/Lacteos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "ED6C612A38A47D93F64EB83951A2D306C2CA04A1CDF4AFB2B10812545CFC2E89",
+          "entry": {
+            "fields": {
+              "description": "Todas las margarinas regular Soprole",
+              "descriptionType": "MARGARINA REGULAR**SOPROLE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las margarinas regular Soprole. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 34975 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca776",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "BFDEBADE03BE384F213C9BEC46B99A58C9E11C396C42078F1CEF5848ED2A21B5",
+          "entry": {
+            "fields": {
+              "description": "Todo el café instantáneo Dolca",
+              "descriptionType": "CAFE**NESCAFE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todo el café instantáneo Dolca. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8762 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb472",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/5nwwP73s85piYLXziJKdAb/5387f1e9eaf0d37df9e5b6a321f0f440/Frutas_verduras.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "C4666335784F6A2016D5EEA401688FB2083ECA193092E2BC4FC5D2FA0A1FD6BF",
+          "entry": {
+            "fields": {
+              "description": "Todas las frutas y verduras frescas",
+              "descriptionType": "FRUTAS Y VEGETALES**All brands",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las frutas y verduras frescas. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 kilos o unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 45645 kilos o unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cbb91",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "4C31DCE509233A9021E87F5028E81B0162D6E2778E2007987B02BED08508A3FB",
+          "entry": {
+            "fields": {
+              "description": "Todas las mayonesas Hellmanns (excluye Supreme)",
+              "descriptionType": "MAYONESAS**HELLMANNS",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las mayonesas Hellmanns (excluye Supreme). Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 41471 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cb320",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "77BBC6B9E1A5D548E7CEA7AF25EF0DECC476C4FE3EF1F24BB384DD5BBDE56704",
+          "entry": {
+            "fields": {
+              "description": "Todos los cereales Nestle",
+              "descriptionType": "CEREALES**NESTLE",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los cereales Nestle. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 2 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 60808 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01caf6e",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "56F4278AE22D0D1606A1B6023BA8D89434065CD2F15FF7C03EEB049BF19ABFBB",
+          "entry": {
+            "fields": {
+              "description": "Galletas Crackelet Costa",
+              "descriptionType": "COCTEL - SNACK**COSTA",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Galletas Crackelet Costa. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 8549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01cac7a",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/3gmW6CSQOlYX54MvLjYLLO/f64ddf718e7992500d13755cb6abbad9/alimentos_basicos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "01E11B16CFE1261935864D6B719145295C07C452A7F3A906A6539E665D365BE0",
+          "entry": {
+            "fields": {
+              "description": "Todas las Salsas de Tomates Malloa",
+              "descriptionType": "SALSAS DE TOMATES**MALLOA",
+              "mechanicId": "1",
+              "mechanic": "25",
+              "discountOrder": "25000000000000",
+              "legal": "Todas las Salsas de Tomates Malloa. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 159167 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca7f0",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/42Q6GtuoqupK9dxZCzd9lD/3175a7a1a075feb4226e9d05039e581f/Huevos_quesos.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "353339A6BFB6021F3A6E71E08138CCEA65CC8077CF4E791C59E1FF19A8EABE0E",
+          "entry": {
+            "fields": {
+              "description": "Todos los huevos Unimarc 20 un",
+              "descriptionType": "HUEVOS 20 UN**UNIMARC",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todos los huevos Unimarc 20 un. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (?APP?) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 46653 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca992",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/5vHluNsBzQxNVd6StK89Oc/43fe14b334a2659fd28b4cd1983d1acc/lavado_mantecio_n.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "D7AED73D6691360D74617359F6270FE4DA84605474A7D63D1FC587054BEB20BB",
+          "entry": {
+            "fields": {
+              "description": "Todos los lavalozas Quix",
+              "descriptionType": "LAVALOZAS**QUIX",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todos los lavalozas Quix. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 202857 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01ca57d",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/2nFVpYIhFv3jJK6u1JYtuz/e31a80153c69a71e1c70077970b0a51a/congelados.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "CD468B0E08F02E126A9619A9B53AC4BCDD6CB59E06F570726574C30685F62C02",
+          "entry": {
+            "fields": {
+              "description": "Todas las verduras congeladas Frutos del Maipo",
+              "descriptionType": "CHOCLO CONGELADO / VERDURAS CONGELADAS**FRUTOS DEL MAIPO",
+              "mechanicId": "1",
+              "mechanic": "20",
+              "discountOrder": "20000000000000",
+              "legal": "Todas las verduras congeladas Frutos del Maipo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 3 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 44549 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        },
+        {
+          "_id": "60c2707565036271e01caf52",
+          "maximoVecesPorCupon": 1,
+          "startDate": "2021-06-02T04:00:00.000Z",
+          "endDate": "2021-07-01T03:59:59.000Z",
+          "imageDefault": "https://images.ctfassets.net/zthh5r2l9hfh/4JwATMDxxGzeAZVAOTSrBe/7b8a26f2dac62ea7887c7ec20063da0c/desayuno.png?w=300&h=3000&fm=png",
+          "geoIdOffer": "4F4CC776AA52D611DE7753D2A55E1E4F4DC730EB29BFBFF230F094733ABF9683",
+          "entry": {
+            "fields": {
+              "description": "Todo Cóctel Frutos Secos Marco Polo",
+              "descriptionType": "COCTEL FRUTOS SECOS**MARCO POLO",
+              "mechanicId": "1",
+              "mechanic": "30",
+              "discountOrder": "30000000000000",
+              "legal": "Todo Cóctel Frutos Secos Marco Polo. Oferta válida solo para miembros del Club Ahorro Unimarc, mayores de 18 años, que descarguen la APP Club Ahorro (APP) y activen su cupón antes de ejecutar la compra en caja. El descuento tiene un tope de 5 unidades por cupón. En caso de que la compra exceda el tope referido, el descuento será aplicable a los productos de mayor valor. Oferta válida entre el {FECHA_INICIO} y {FECHA_FIN}, ambas fechas inclusive o hasta agotar el stock disponible de 201407 unidades  a nivel nacional, lo que ocurra primero. Cupón INTRANSFERIBLE y válido para una sola compra por cliente. Oferta válida sólo para compras con boleta. Descuento no acumulable con otras ofertas y/o promociones. Para clientes de Tarjeta Unimarc que paguen con ella o con su huella dactilar, 10% de descuento adicional al total resultante, una vez aplicados los descuentos de cupones en la APP, el que se hará efectivo al momento de pagar la compra en caja."
+            }
+          }
+        }
+      ]
+    }
+  }
+}
