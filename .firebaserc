@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "app-unimarc-dev"
+    "default": "app-unimarc-dev",
+    "app unimar prod": "app-unimarc",
+    "dev": "app-unimarc-dev"
   }
 }

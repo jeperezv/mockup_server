@@ -1,89 +1,167 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+
+<head>
+
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Firebase Hosting</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Unimarc">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
+        rel="stylesheet">
 
-    <!-- update the version number as needed -->
-    <script defer src="/__/firebase/8.7.0/firebase-app.js"></script>
-    <!-- include only the Firebase features as you need -->
-    <script defer src="/__/firebase/8.7.0/firebase-auth.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-database.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-firestore.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-functions.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-messaging.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-storage.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-analytics.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-remote-config.js"></script>
-    <script defer src="/__/firebase/8.7.0/firebase-performance.js"></script>
-    <!-- 
-      initialize the SDK after all desired features are loaded, set useEmulator to false
-      to avoid connecting the SDK to running emulators.
-    -->
-    <script defer src="/__/firebase/init.js?useEmulator=true"></script>
+    <title>Beta App Unimarc Landing Page</title>
 
-    <style media="screen">
-      body { background: #ECEFF1; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
-      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
-      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
-      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
-      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
-      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
-      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
-      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
-      @media (max-width: 600px) {
-        body, #message { margin-top: 0; background: white; box-shadow: none; }
-        body { border-top: 16px solid #ffa100; }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="message">
-      <h2>Welcome</h2>
-      <h1>Firebase Hosting Setup Complete</h1>
-      <p>You're seeing this because you've successfully setup Firebase Hosting. Now it's time to go build something extraordinary!</p>
-      <a target="_blank" href="https://firebase.google.com/docs/hosting/">Open Hosting Documentation</a>
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+
+    <link rel="stylesheet" href="assets/css/templatemo-lava.css">
+
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
+
+</head>
+
+<body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
     </div>
-    <p id="load">Firebase SDK Loading&hellip;</p>
+    <!-- ***** Preloader End ***** -->
 
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const loadEl = document.querySelector('#load');
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-        // // The Firebase SDK is initialized and available here!
-        //
-        // firebase.auth().onAuthStateChanged(user => { });
-        // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
-        // firebase.firestore().doc('/foo/bar').get().then(() => { });
-        // firebase.functions().httpsCallable('yourFunction')().then(() => { });
-        // firebase.messaging().requestPermission().then(() => { });
-        // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
-        // firebase.analytics(); // call to activate
-        // firebase.analytics().logEvent('tutorial_completed');
-        // firebase.performance(); // call to activate
-        //
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
-        try {
-          let app = firebase.app();
-          let features = [
-            'auth', 
-            'database', 
-            'firestore',
-            'functions',
-            'messaging', 
-            'storage', 
-            'analytics', 
-            'remoteConfig',
-            'performance',
-          ].filter(feature => typeof app[feature] === 'function');
-          loadEl.textContent = `Firebase SDK loaded with ${features.join(', ')}`;
-        } catch (e) {
-          console.error(e);
-          loadEl.textContent = 'Error loading the Firebase SDK, check the console.';
-        }
-      });
-    </script>
-  </body>
+
+
+
+    <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
+
+        <!-- ***** Header Text Start ***** -->
+        <div class="header-text">
+            <div class="container">
+                <div class="row">
+                    <div class="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
+                        data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                        <h1>Beta App Unimarc<em></em></h1>
+                        <p>Gracias por participar en la versión beta.</p>
+                        <a href="#about" class="main-button-slider">Pasos para descargar la app</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Header Text End ***** -->
+    </div>
+    <!-- ***** Welcome Area End ***** -->
+
+
+
+
+
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <h2>01</h2>
+                            <img src="assets/images/unimarc_logo.png" alt="">
+                            <h4>1. Hacer click en el botón "Descargar App".</h4>
+                            <p></p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <h2>02</h2>
+                            <img src="assets/images/unimarc_logo.png" alt="">
+                            <h4>2. Al finalizar la descarga abre el archivo. Si no lo encuentras, búscalo en la carpeta
+                                descargas de tu celular.</h4>
+                            <p></p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <h2>03</h2>
+                            <img src="assets/images/unimarc_logo.png" alt="">
+                            <h4>3. Otorga los permisos que te solicitara tu dispositivo.</h4>
+                            <p></p>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <h2>04</h2>
+                            <img src="assets/images/unimarc_logo.png" alt="">
+                            <h4>4. ¡Listo! Ya podrás usar la app Unimarc</h4>
+                            <p></p>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-8 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <!--<h2>05</h2>-->
+                            <img src="assets/images/logo-android-150.png" alt="logo android" width="120">
+                            <!--<h4>5. Descargue la app:</h4>-->
+                            <a href="release/app_unimarc.apk" class="main-button">
+                                DESCARGAR APP
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+
+
+
+    <!-- ***** Footer Start ***** -->
+
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script>
+
+    <!-- Global Init -->
+    <script src="assets/js/custom.js"></script>
+
+</body>
+
 </html>
